@@ -9,8 +9,7 @@ name: Kriss Miñano
 description: Bach.Ingeniería de Sistemas e Informática
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/10505542?s=460&u=a79a0c98827a17de64a7a321920612614750b153&v=4
-
+avatar: https://avatars2.githubusercontent.com/u/10505542?s=60&v=4
 #
 # Flags below are optional
 #
@@ -18,15 +17,16 @@ avatar: https://avatars3.githubusercontent.com/u/10505542?s=460&u=a79a0c98827a17
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:sdckrissminano@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: krisscaroli/krisscaroli.github.io
+
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: #
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
