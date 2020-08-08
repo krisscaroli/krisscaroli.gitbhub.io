@@ -3,7 +3,7 @@ layout: post
 title: Mi primer articulo!
 ---
 
-Este es mi primer articulo
+Este es mi primer articulo by riss
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
