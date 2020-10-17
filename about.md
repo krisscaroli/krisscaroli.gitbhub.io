@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Me gusta la tecnología y capacitarme día a día.!!
+Soy una persona perseverante y luchadora.
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Tengo conocimientos de java, php. He trabajado con proyectos en desarrollo web usando java.Vivo en agilidad y he adoptado el marco scrum.
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+[sdckrissminano.com](mailto:sdckrissminano@gmail.com)
